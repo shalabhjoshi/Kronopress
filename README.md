@@ -1,0 +1,2 @@
+# Kronopress
+Kronopress wordpress plugin
